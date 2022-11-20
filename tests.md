@@ -13,7 +13,7 @@
 (результат работы c.out)
 ![изображение](https://user-images.githubusercontent.com/61345502/202898993-178585cf-8944-4bb6-8bf0-2597c722ec73.png)
 (результат работы s1.out)
-
+![изображение](https://user-images.githubusercontent.com/61345502/202899265-b309fb08-2904-43fd-8ff8-2d2fc3131451.png)
 (результат работы s2.out)
 
 (результат работы s3.out)
