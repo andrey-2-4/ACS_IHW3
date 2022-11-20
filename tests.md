@@ -15,5 +15,5 @@
 (результат работы s1.out)
 ![изображение](https://user-images.githubusercontent.com/61345502/202899265-b309fb08-2904-43fd-8ff8-2d2fc3131451.png)
 (результат работы s2.out)
-
+![изображение](https://user-images.githubusercontent.com/61345502/202902077-8820c20b-96fc-48f3-86d6-900905a6f77d.png)
 (результат работы s3.out)
