@@ -17,3 +17,4 @@
 (результат работы s2.out)
 ![изображение](https://user-images.githubusercontent.com/61345502/202902077-8820c20b-96fc-48f3-86d6-900905a6f77d.png)
 (результат работы s3.out)
+![изображение](https://user-images.githubusercontent.com/61345502/202903280-cefaea5b-3f84-493d-abc1-b87230f0fa99.png)
