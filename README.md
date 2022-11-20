@@ -52,10 +52,10 @@ tests.md - файл с тестами (входные данные и ожида
 
 5) Добавлены комментарии в программу на ассемблере (hw1withcomments.s) и убраны "endbr64" и строки
 
-	.size	factorial, .-factorial
-	.size	sin, .-sin
-	.size	main, .-main
-	.section	.rodata
-	.section	.rodata
+		.size	factorial, .-factorial
+		.size	sin, .-sin
+		.size	main, .-main
+		.section	.rodata
+		.section	.rodata
 
 6) Результат компиляции hw3withcomments.s (s2.out) 
